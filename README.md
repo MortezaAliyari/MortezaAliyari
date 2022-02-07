@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MortezaAliyari.
-- 👀 I’m interested in Robotic and UAV with hands-on experience it and more than 5 years of experience.
-- 🌱 I’m currently learning ROS2 and Reinforcement learning as an AI algorithm.
-- 💞️ I’m looking to collaborate on the Robotic field.
+- 👀 I’m interested in Robotic such as Mobile Robots,UAVs, CyberDogs, Model predictive control, Reinforcment Learning, ROS1&2. 
+- 🌱 I’m currently learning  Deep Reinforcment Learning to use as a motion planing algorithm.
 - 📫 How to reach me? You can find more about me on LinkedIn with below address:
 
 *** www.linkedin.com/in/morteza-aliyari-1609a1107
