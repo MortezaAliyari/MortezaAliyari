@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Deep Reinforcment Learning to use as a motion planing algorithm.
 - 📫 How to reach me? You can find more about me on LinkedIn with below address:
 
-*** www.linkedin.com/in/morteza-aliyari-1609a1107
+***[Also you can contact me on linkdin page too](www.linkedin.com/in/morteza-aliyari-1609a1107)
 
 <!---
 MortezaAliyari/MortezaAliyari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
