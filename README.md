@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning  Deep Reinforcment Learning to use as a motion planing algorithm and mapless environments.
 - 💬 Ask me about robots here
 ## Connect with Me 🤝🏻
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107)
+   [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107)
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
+   [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
 &nbsp;&nbsp;
 
 Watch my contribution graph being eaten by a Snake! 🐍
@@ -20,5 +20,5 @@ Watch my contribution graph being eaten by a Snake! 🐍
 </details>
 
 [youtube]:https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com
 [linkedin]: www.linkedin.com/in/morteza-aliyari-1609a1107
