@@ -9,9 +9,7 @@
 &nbsp;&nbsp;
 
 The time is such a below snake, eating futur and past! 🐍
-
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
