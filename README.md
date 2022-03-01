@@ -8,7 +8,7 @@
    [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
 &nbsp;&nbsp;
 
-Watch my contribution graph being eaten by a Snake! 🐍
+The time is such a below snake, eating futur and past! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
