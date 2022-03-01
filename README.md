@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning  Deep Reinforcment Learning to use as a motion planing algorithm and mapless environments.
 - 📫 How to reach me? You can find more about me on LinkedIn with below address:
 
-Also you can contact me on [linkdin](www.linkedin.com/in/morteza-aliyari-1609a1107)page too.
+Also you can contact me on [linkdin](www.linkedin.com/in/morteza-aliyari-1609a1107) page too.
 
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
+[![Linkdin]](www.linkedin.com/in/morteza-aliyari-1609a1107) 
