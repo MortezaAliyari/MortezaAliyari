@@ -8,7 +8,7 @@
    [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
 &nbsp;&nbsp;
 
-The time is such a below snake, eating futur and past! 🐍
+This is not Random Route Tree algorithm! 🐍
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 <details>
   <summary>:zap: GitHub Stats</summary>
