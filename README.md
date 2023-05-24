@@ -1,7 +1,7 @@
 - # Hello there! 👋🏻, I’m @MortezaAliyari.
-- 👀 I’m interested in Robotic such as Mobile Robots,UAVs, CyberDogs, Model predictive control, Reinforcment Learning, ROS1&2. 
-- 🌱 I’m currently learning  Deep Reinforcment Learning to use as a motion planing algorithm in a mapless environments.
-- 💬 Ask me about robots here!
+- 👀 I’m interested in Robotic such as Mobile Robots,UAVs, Self Driving cars, Model predictive control, Reinforcment Learning, ROS1&2. 
+- 🌱 I’m currently working on localization of selfdriving cars.
+- 💬 Ask me about localization here!
 ## Connect with Me 🤝🏻
    [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107)
 &nbsp;&nbsp;
