@@ -1,6 +1,6 @@
 - # Hello there! 👋🏻, I’m @MortezaAliyari.
-- 👀 I’m interested in Robotic such as Mobile Robots,UAVs, Self Driving cars, Model predictive control, Reinforcment Learning, ROS1&2. 
-- 🌱 I’m currently working on localization of selfdriving cars.
+- 👀 I’m interested in Robotics such as Mobile Robots, UAVs, Self-driving cars, Model predictive control, Reinforcement Learning, and ROS1&2. 
+- 🌱 I’m currently working on localization of self-driving cars.
 - 💬 Ask me about localization here!
 ## Connect with Me 🤝🏻
    [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107)
@@ -8,7 +8,7 @@
    [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
 &nbsp;&nbsp;
 
-This is not Random Route Tree algorithm! 🐍
+This is not a Random Route Tree algorithm! 🐍
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 <details>
   <summary>:zap: GitHub Stats</summary>
