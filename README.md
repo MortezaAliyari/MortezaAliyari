@@ -3,9 +3,9 @@
 - 🌱 I’m currently working on localization of self-driving cars.
 - 💬 Ask me about localization here!
 ## Connect with Me 🤝🏻
-   [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107)
+   <!-- [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morteza-aliyari-1609a1107) -->
 &nbsp;&nbsp;
-   [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg)
+   <!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg) -->
 &nbsp;&nbsp;
 
 This is not a Random Route Tree algorithm! 🐍
@@ -17,6 +17,6 @@ This is not a Random Route Tree algorithm! 🐍
 
 </details>
 
-[youtube]:https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg
-[instagram]: https://instagram.com
-[linkedin]: www.linkedin.com/in/morteza-aliyari-1609a1107
+<!--[youtube]:https://www.youtube.com/channel/UCyRBig4xgAdaRdIz14Xymrg -->
+<!-- [instagram]: https://instagram.com -->
+<!-- [linkedin]: www.linkedin.com/in/morteza-aliyari-1609a1107 -->
