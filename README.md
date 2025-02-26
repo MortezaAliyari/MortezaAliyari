@@ -1,4 +1,4 @@
-- # Hello there! 👋🏻, I’m @MortezaAliyari.
+- # Hello there! 👋🏻
 - 👀 I’m interested in Robotics such as Mobile Robots, UAVs, Self-driving cars, Model predictive control, Reinforcement Learning, and ROS1&2. 
 - 🌱 I’m currently working on localization of self-driving cars.
 - 💬 Ask me about localization here!
